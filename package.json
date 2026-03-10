@@ -1,0 +1,21 @@
+{
+  "name": "2025573010096_algoritma_dan_struktur_data",
+  "version": "1.0.0",
+  "description": "Nama   : Wahyu Hakim\r NIM    : 2025573010126\r Alamat : Kota Langsa\r Kelas  : TI 1C\r Mata Kuliah : Praktikum Algoritma dan Struktur Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WahyuHakim/2025573010096_Algoritma_Dan_Struktur_Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WahyuHakim/2025573010096_Algoritma_Dan_Struktur_Data/issues"
+  },
+  "homepage": "https://github.com/WahyuHakim/2025573010096_Algoritma_Dan_Struktur_Data#readme"
+}
